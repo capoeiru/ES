@@ -1,0 +1,56 @@
+"\
+<button type=\"button\" id=\"list\" class=\"btn btn-default dropdown-toggle disable\" data-toggle=\"dropdown\" ><b class=\"caret\"></b></button>\
+<ul class=\"dropdown-menu\">\
+\
+<li class=\"dropdown-submenu\"> <a tabindex=\"-1\" class=\"dropdown_list\"><img class=\"\" src=\"img/t-shirt.png\"/>&nbsp;Tops</a>\
+<ul class=\"dropdown-menu\">\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'t-shirt\');\">T-shirt</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'tank\');\">Tank</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'top\');\">Top</a></li>\
+</ul>\
+</li>\
+<li class=\"dropdown-submenu\"> <a tabindex=\"-1\" class=\"dropdown_list\"><img class=\"\" src=\"img/jacket.png\"/>&nbsp;Long-sleeved top</a>\
+<ul class=\"dropdown-menu\">\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'hoodie\');\">Hoodie</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'sweater\');\">Sweater</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'Cardigan\');\">Cardigan</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'Sweatshirt\');\">Sweatshirt</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'Jumper\');\">Jumper</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'pullover\');\">Pullover</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'shirt\');\">Shirt</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'blazer\');\">Blazer</a></li>\
+</ul>\
+</li>\
+<li class=\"dropdown-submenu\"> <a tabindex=\"-1\" class=\"dropdown_list\"><img class=\"\" src=\"img/pants.png\"/>&nbsp;Bottoms</a>\
+<ul class=\"dropdown-menu\">\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'shorts\');\">Shorts</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'pants\');\">Pants</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'jeans\');\">Jeans</a></li>\
+</ul>\
+<li class=\"dropdown-submenu\"> <a tabindex=\"-1\" class=\"dropdown_list\"><img class=\"\" src=\"img/jacket.png\"/>&nbsp;Outerwear</a>\
+<ul class=\"dropdown-menu\">\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'jacket\');\">Jacket</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'coat\');\">Coat</a></li>\
+</ul>\
+</li>\
+<li class=\"dropdown-submenu\"> <a tabindex=\"-1\" class=\"dropdown_list\"><img class=\"\" src=\"img/dress.png\"/>&nbsp;Suit</a>\
+<ul class=\"dropdown-menu\">\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'suit pants\');\">Suit pants</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'suit blazer\');\">Suit blazer</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'suit shirt\');\">Suit shirt</a></li>\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'tie\');\">Tie</a></li>\
+</ul>\
+</li>\
+\
+<li class=\"dropdown-submenu\"> <a tabindex=\"-1\" class=\"dropdown_list\"><img class=\"\" src=\"img/underwear.png\"/>&nbsp;Underwear</a>\
+<ul class=\"dropdown-menu\">\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'underwear\');\">Underwear</a></li>\
+</ul>\
+</li>\
+<li class=\"dropdown-submenu\"> <a tabindex=\"-1\" class=\"dropdown_list\"><img class=\"\" src=\"img/swimwear.png\"/>&nbsp;Swimwear</a>\
+<ul class=\"dropdown-menu\">\
+<li><a tabindex=\"-1\" class=\"dropdown_list\" onClick=\"putItemNameInTextField(\'swimwear\');\">Swimwear</a></li>\
+</ul>\
+</li>\
+</ul>\
+"
